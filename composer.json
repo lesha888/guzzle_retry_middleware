@@ -1,5 +1,5 @@
 {
-    "name": "caseyamcl/guzzle_retry_middleware",
+    "name": "lesha888/guzzle_retry_middleware",
     "type": "library",
     "description": "Guzzle middleware that handles HTTP Retry-After middleware",
     "keywords": [
